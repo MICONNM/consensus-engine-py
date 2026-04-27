@@ -1,5 +1,17 @@
 # Consensus Engine Python Client
 
+<!-- sponsor-section -->
+## Sponsor this project
+
+Consensus Engine is a $0-capital open-source project. If it saves you time, please consider supporting development:
+
+- [GitHub Sponsors](https://github.com/sponsors/MICONNM) (0% fees)
+- [Buy a beta API key on Polar.sh](https://polar.sh/MICONNM)
+- Hosted API: https://api.yanmiayn.com
+
+[![Sponsor](https://img.shields.io/github/sponsors/MICONNM?label=Sponsor&logo=GitHub)](https://github.com/sponsors/MICONNM)
+<!-- /sponsor-section -->
+
 [![PyPI](https://img.shields.io/badge/api-yanmiayn.com-blue)](https://api.yanmiayn.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
